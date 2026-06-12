@@ -1,6 +1,6 @@
-# Extensible Multiplayer Transport Protocol
+# Extensible Multiplayer Networking Framework
 
-This project implements and designs the Extensible Multiplayer Transport Protocol (EMTP), a protocol designed for efficient and flexible communication in multiplayer games. EMTP allows developers to define custom channels for different types of data, enabling optimised data transfer and improved performance.
+This project implements and designs the Extensible Multiplayer Networking Framework (EMNF), a protocol designed for efficient and flexible communication in multiplayer games. EMNF allows developers to define custom channels for different types of data, enabling optimised data transfer and improved performance.
 
 ## Design
 
